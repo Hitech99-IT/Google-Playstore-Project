@@ -28,8 +28,8 @@ This project focuses on analyzing **Google Play Store data** to uncover insights
 
 Here’s a quick overview of the repository structure:
 Google-Playstore-Project/
-├── 📁 data/ # Contains datasets (Excel, CSV, etc.)
-├── 📁 dashboards/ # Power BI and Tableau files
+- **📁 data/ # Contains datasets** (Excel, CSV, etc.)
+- **📁 dashboards/** # Power BI and Tableau files
 ├── 📁 sql/ # MySQL queries and database scripts
 ├── 📁 docs/ # Business documents (BRD, Process Flows, etc.)
 ├── 📄 README.md # Project overview (you're here!)
