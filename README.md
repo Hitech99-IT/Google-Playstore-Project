@@ -1,6 +1,6 @@
 # Google Play Store Project 🚀
 
-Hello there! 👋 I'm **Farhan**, a fresh graduate in **Information Systems** currently based in **Indonesia**. Welcome to my **Google Play Store Project**! This project is a part of my **Analyst Portfolio**, where I showcase my skills in data analysis, visualization, and business documentation.
+Hello there! 👋 I'm **Farhan**, a fresh graduate in **Information Systems** currently based in **Indonesia**. Welcome to my **Google Play Store Project**! This project is a part of my **Analyst Portfolio**, where I showcase my skills in data analysis, visualization, and business documentation. 
 
 ---
 
@@ -27,3 +27,10 @@ This project focuses on analyzing **Google Play Store data** to uncover insights
 ## 📂 Project Structure
 
 Here’s a quick overview of the repository structure:
+Google-Playstore-Project/
+├── 📁 data/ # Contains datasets (Excel, CSV, etc.)
+├── 📁 dashboards/ # Power BI and Tableau files
+├── 📁 sql/ # MySQL queries and database scripts
+├── 📁 docs/ # Business documents (BRD, Process Flows, etc.)
+├── 📄 README.md # Project overview (you're here!)
+└── 📄 LICENSE # License file (if applicable)
