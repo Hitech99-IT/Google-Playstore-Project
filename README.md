@@ -34,3 +34,17 @@ Google-Playstore-Project/
 ├── 📁 docs/ # Business documents (BRD, Process Flows, etc.)
 ├── 📄 README.md # Project overview (you're here!)
 └── 📄 LICENSE # License file (if applicable)
+
+---
+
+## 🚧 Project Status
+
+This project is **still ongoing**! I’m continuously updating it with new insights, visualizations, and documentation. Stay tuned for more updates! 🚀
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I’m always open to feedback, suggestions, or collaboration opportunities. If you’d like to connect or discuss this project further, feel free to reach out to me on LinkedIn:
+
+👉 [LinkedIn Profile](https://www.linkedin.com/in/farhansrihadiputra/)
