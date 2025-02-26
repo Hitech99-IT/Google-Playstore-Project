@@ -10,7 +10,7 @@ This project focuses on analyzing **Google Play Store data** to uncover insights
 
 - **📊 Excel Files**: Cleaned datasets and analysis.
 - **📈 Dashboards**: Interactive visualizations created using **Power BI** and **Tableau**.
-- **📄 Business Documents**: Including **BRD (Business Requirements Document)**, **Business Process Flows**, and other relevant documentation for clear insights.
+- **📄 Business Documents**: Including **BRD (Business Requirements Document)**, **Business Process Flows**, and other relevant documentation for clear insights. - still in development
 
 ---
 
